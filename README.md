@@ -7,7 +7,6 @@ of email hack facebook - pubg - instagram ok?
 # use the tool
 
 ```
-```
 $ apt update 
 
 $ apt upgrade
@@ -25,3 +24,4 @@ $ cd Email
 $ chmod +x fb-hotmail.pyc
 
 $ python fb-hotmail.pyc
+```
